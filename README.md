@@ -36,6 +36,6 @@
   - The OrangeHRM Web application will be tested on latest versions of Mozilla, Chrome, IE.
 
 ### 3.4 Daily test summary report
-![image](https://github.com/Andrada2192/TMTA12/assets/56837073/d36f4af4-7271-4eb5-80e8-144c8ddd713b)
+![Daily report](https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG)
 
              
