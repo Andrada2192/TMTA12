@@ -38,4 +38,7 @@
 ### 3.4 Daily test summary report
 ![Daily report]([https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG](https://github.com/Andrada2192/TMTA12/blob/main/image.png)https://github.com/Andrada2192/TMTA12/blob/main/image.png)
 
-             
+### 3.6 Test case results
+Link catre fisier [TES 47 sau test case results]([https://github.com/alexandrap20/Proiect-Practic-Testare-Manuala/blob/main/repo_git.PNG](https://github.com/Andrada2192/TMTA12/blob/main/README.md))
+
+
